@@ -6,8 +6,6 @@ description: This resource contains introduction, specific aims, experiments and
 file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/44af8546e8abb4de20b650210ce57948_7_340_proposal.pdf
 file_size: 158539
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

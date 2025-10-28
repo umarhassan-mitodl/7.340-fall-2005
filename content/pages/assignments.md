@@ -2,8 +2,6 @@
 content_type: page
 description: The assignment section provides information about the three assignments
   along with the supporting files containing hints, questions and guidelines.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

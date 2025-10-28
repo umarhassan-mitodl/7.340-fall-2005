@@ -5,8 +5,6 @@ description: This resource contains hexagonal lattice of humanoid figures (a hom
 file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/a2e7c9ab290ed13fff706ce7b03f61c4_Homunculattice.tif
 file_size: 6587848
 file_type: image/tiff
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

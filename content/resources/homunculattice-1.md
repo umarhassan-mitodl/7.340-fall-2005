@@ -6,8 +6,6 @@ description: This resource is a assignments and it consists of a hexagonal latti
 file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/27c13e74048cb338fa464f06f614c237_homunculattice.pdf
 file_size: 325625
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

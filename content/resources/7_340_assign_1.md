@@ -5,8 +5,6 @@ description: This resource contains assignment 1 problem along with due date, ap
 file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/792eaeee42e351a2f125fb36d91e04bf_7_340_assign_1.pdf
 file_size: 69483
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

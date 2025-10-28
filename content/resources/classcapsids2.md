@@ -4,8 +4,6 @@ description: Photo of the homunculattice assignment. Photo by Peter Weigele.
 file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/f9262d2b1935b7328b9575835c861430_classcapsids2.jpg
 file_size: 88802
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
